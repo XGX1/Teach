@@ -1,0 +1,4 @@
+# Add below lines to exclude OS settings and caches
+.trash/
+文件
+.DS_Store
