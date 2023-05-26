@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/1.1 安装rider和.net.md",
+                "file": "主要/前言.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +158,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e176ee46a2414d95",
+  "active": "52aafa4841bf56b6",
   "lastOpenFiles": [
+    "主要/前言.md",
+    "CS/1.1 安装rider和.net.md",
     "Pasted image 20230526135031.png",
     "Pasted image 20230526134534.png",
     "公开文件/Pasted image 20230225142952.png.md",
-    "CS/1.1 安装rider和.net.md",
     "Pasted image 20230526134336.png",
     "教学记录/坑.md",
     "公开文件/Pasted image 20230526133839.png",
@@ -174,14 +174,12 @@
     "公开文件/Pasted image 20230526123157.png",
     "公开文件/Pasted image 20230526133258.png",
     "公开文件/Pasted image 20230526133110.png",
-    "公开文件/Pasted image 20230526133033.png",
     "Pasted image 20230526123053.png.md",
     "公开文件",
     "CS/1.0入门思考.md",
     "CS/思考.md",
     "CS/0.1 前言.md",
     "主要/思考.md",
-    "主要/前言.md",
     "conflict-files-obsidian-git.md",
     "Unity/new bing给我的建议.md",
     "Unity/新手入门/1.前言.md",
