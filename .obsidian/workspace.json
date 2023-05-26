@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教学记录/坑.md",
+                "file": "CS/1.1 安装rider和.net.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "教学记录/坑.md",
+                "file": "CS/1.1 安装rider和.net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "教学记录/坑.md",
+                "file": "CS/1.1 安装rider和.net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教学记录/坑.md"
+                "file": "CS/1.1 安装rider和.net.md"
               }
             }
           }
@@ -171,18 +171,20 @@
   },
   "active": "e176ee46a2414d95",
   "lastOpenFiles": [
-    "公开文件/Pasted image 20230526134336.png",
+    "CS/1.2 rider基本设置.md",
+    "CS/0.1 前言.md",
+    "CS/1.0 入门思考.md",
+    "CS/1.1 安装rider和.net.md",
     "CS/1.3 输出.md",
     "CS/1.4 注释.md",
+    "模板/新文件.md",
     "CS/1.5 类型.md",
-    "CS/1.0 入门思考.md",
-    "CS/0.1 前言.md",
+    "教学记录/坑.md",
+    "公开文件/Pasted image 20230526134336.png",
     "CS/0.0 思考.md",
-    "CS/1.1 安装rider和.net.md",
     "公开文件/Pasted image 20230226150852.png.md",
     "Pasted image 20230526143459.png",
     "公开文件/Pasted image 20230225151112.png.md",
-    "CS/1.2 rider基本设置.md",
     "公开文件/Pasted image 20230526143009.png",
     "公开文件/Pasted image 20230526142901.png",
     "公开文件/Pasted image 20230526142853.png",
@@ -193,9 +195,7 @@
     "公开文件/Pasted image 20230526142758.png",
     "教学记录/想法.md",
     "教学记录/注意事项.md",
-    "模板/新文件.md",
     "主要/前言.md",
-    "教学记录/坑.md",
     "公开文件/Pasted image 20230225142952.png.md",
     "Pasted image 20230526123053.png.md",
     "公开文件",
