@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/1.2 rider基本设置.md",
+                "file": "CS/1.3 输出.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f786665b73a0e53f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "公开文件/Pasted image 20230526134336.png"
               }
             }
           },
@@ -29,14 +39,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4a0db2529d669925",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/1.2 rider基本设置.md",
+                "file": "CS/1.3 输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/1.2 rider基本设置.md",
+                "file": "CS/1.3 输出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/1.2 rider基本设置.md"
+                "file": "CS/1.3 输出.md"
               }
             }
           }
@@ -168,25 +170,28 @@
   },
   "active": "52aafa4841bf56b6",
   "lastOpenFiles": [
-    "Pasted image 20230526141902.png",
-    "Pasted image 20230526141754.png",
-    "Pasted image 20230526141734.png",
-    "Pasted image 20230526141648.png",
-    "Pasted image 20230526141418.png",
-    "Pasted image 20230526141352.png",
-    "Pasted image 20230526141323.png",
-    "Pasted image 20230526141236.png",
-    "CS/1.1 安装rider和.net.md",
+    "公开文件/Pasted image 20230526134336.png",
+    "公开文件/Pasted image 20230225151112.png.md",
+    "CS/1.3 输出.md",
     "CS/1.2 rider基本设置.md",
-    "教学记录/坑.md",
+    "公开文件/Pasted image 20230526143009.png",
+    "公开文件/Pasted image 20230526142901.png",
+    "公开文件/Pasted image 20230526142853.png",
+    "公开文件/Pasted image 20230526142842.png",
+    "公开文件/Pasted image 20230526142833.png",
+    "公开文件/Pasted image 20230526142822.png",
+    "公开文件/Pasted image 20230526142809.png",
+    "公开文件/Pasted image 20230526142758.png",
+    "公开文件/Pasted image 20230526142747.png",
+    "教学记录/想法.md",
+    "教学记录/注意事项.md",
     "模板/新文件.md",
+    "主要/前言.md",
+    "教学记录/坑.md",
+    "公开文件/Pasted image 20230526142316.png",
+    "CS/1.1 安装rider和.net.md",
     "CS/1.5 类型.md",
     "CS/1.4 注释.md",
-    "CS/1.3 输出.md",
-    "Pasted image 20230526140552.png",
-    "Pasted image 20230526140446.png",
-    "Pasted image 20230526140314.png",
-    "主要/前言.md",
     "公开文件/Pasted image 20230225142952.png.md",
     "Pasted image 20230526123053.png.md",
     "公开文件",
@@ -201,10 +206,7 @@
     "Unity/功能合集/Unity/unity hub/1.基本.md",
     "Unity/功能合集/Unity/基本.md",
     "CS/大纲.md",
-    "教学记录/注意事项.md",
-    "教学记录/想法.md",
     "Unity/新手入门/2.软件安装.md",
-    "杂项/一些建议.md",
     "Unity/功能合集/Unity/unity hub",
     "Unity/功能合集/Unity",
     "Unity/功能合集",
