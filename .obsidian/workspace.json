@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1a87bbb09405d69f",
+        "id": "a50ff786c91373cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8cb13db07650db25",
+            "id": "52aafa4841bf56b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "abc020c15ea57406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主要/前言.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主要/前言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主要/前言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "主要/前言.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +150,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34e027aab6bf02f6",
+  "active": "52aafa4841bf56b6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "主要/前言.md",
     "CS/1.0入门思考.md",
     "Unity/new bing给我的建议.md",
-    "主要/前言.md",
     "Unity/新手入门/1.前言.md",
     "CS/1.1 安装rider和.net.md",
     "CS/1.2 输出.md",
