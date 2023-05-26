@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/1.3 输出.md",
+                "file": "CS/1.4 注释.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/1.3 输出.md",
+                "file": "CS/1.4 注释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/1.3 输出.md",
+                "file": "CS/1.4 注释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/1.3 输出.md"
+                "file": "CS/1.4 注释.md"
               }
             }
           }
@@ -170,9 +170,17 @@
   },
   "active": "52aafa4841bf56b6",
   "lastOpenFiles": [
+    "CS/1.5 类型.md",
+    "CS/1.4 注释.md",
+    "CS/1.0 入门思考.md",
+    "CS/0.1 前言.md",
+    "CS/0.0 思考.md",
+    "CS/1.1 安装rider和.net.md",
+    "CS/1.3 输出.md",
+    "公开文件/Pasted image 20230226150852.png.md",
+    "Pasted image 20230526143459.png",
     "公开文件/Pasted image 20230526134336.png",
     "公开文件/Pasted image 20230225151112.png.md",
-    "CS/1.3 输出.md",
     "CS/1.2 rider基本设置.md",
     "公开文件/Pasted image 20230526143009.png",
     "公开文件/Pasted image 20230526142901.png",
@@ -182,22 +190,15 @@
     "公开文件/Pasted image 20230526142822.png",
     "公开文件/Pasted image 20230526142809.png",
     "公开文件/Pasted image 20230526142758.png",
-    "公开文件/Pasted image 20230526142747.png",
     "教学记录/想法.md",
     "教学记录/注意事项.md",
     "模板/新文件.md",
     "主要/前言.md",
     "教学记录/坑.md",
-    "公开文件/Pasted image 20230526142316.png",
-    "CS/1.1 安装rider和.net.md",
-    "CS/1.5 类型.md",
-    "CS/1.4 注释.md",
     "公开文件/Pasted image 20230225142952.png.md",
     "Pasted image 20230526123053.png.md",
     "公开文件",
-    "CS/1.0入门思考.md",
     "CS/思考.md",
-    "CS/0.1 前言.md",
     "主要/思考.md",
     "conflict-files-obsidian-git.md",
     "Unity/new bing给我的建议.md",
@@ -206,7 +207,6 @@
     "Unity/功能合集/Unity/unity hub/1.基本.md",
     "Unity/功能合集/Unity/基本.md",
     "CS/大纲.md",
-    "Unity/新手入门/2.软件安装.md",
     "Unity/功能合集/Unity/unity hub",
     "Unity/功能合集/Unity",
     "Unity/功能合集",
