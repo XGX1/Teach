@@ -11,8 +11,12 @@
             "id": "8cb13db07650db25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/1.1 安装rider和.net.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/1.1 安装rider和.net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/1.1 安装rider和.net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/1.1 安装rider和.net.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "8cb13db07650db25",
   "lastOpenFiles": [
-    "Unity/new bing给我的建议.md",
-    "其他/前言.md",
     "CS/1.0入门思考.md",
+    "CS/0.1 前言.md",
+    "其他/前言.md",
+    "Unity/new bing给我的建议.md",
     "Unity/新手入门/1.前言.md",
     "CS/1.1 安装rider和.net.md",
     "CS/1.2 输出.md",
@@ -152,7 +161,6 @@
     "Unity/功能合集/Unity/基本.md",
     "CS/1.4 类型.md",
     "CS/大纲.md",
-    "CS/0.1 前言.md",
     "教学记录/注意事项.md",
     "教学记录/想法.md",
     "模板/新文件.md",

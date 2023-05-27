@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "baseFontSize": 20,
-  "interfaceFontFamily": "Noto Sans CJK SC",
-  "textFontFamily": "Noto Sans CJK SC",
-  "monospaceFontFamily": "Cascadia Mono PL",
+  "interfaceFontFamily": "Cascadia Code,Noto Sans Mono CJK SC",
+  "textFontFamily": "Cascadia Code,Noto Sans Mono CJK SC",
+  "monospaceFontFamily": "Cascadia Code,Noto Sans Mono CJK SC",
   "cssTheme": "Things",
   "theme": "obsidian"
 }
