@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "615a151423b26220",
+        "id": "8e5ffe555039f813",
         "type": "tabs",
         "children": [
           {
-            "id": "1d159d97a4b165a7",
+            "id": "aef2094412028129",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +137,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d159d97a4b165a7",
+  "active": "aef2094412028129",
   "lastOpenFiles": [
+    "文件/lu1314448hch7.tmp",
     "文件/lu1314448hch4.tmp",
     "文件/lu1314448hch1.tmp",
     "文件/lu1314448hcgy.tmp",
@@ -153,7 +153,6 @@
     "公开文件/Pasted image 20230526134336.png",
     "文件/lu863669qiz.tmp",
     "文件/lu1589665p9v.tmp",
-    "文件/lu1589665p9s.tmp",
     "CS/1.1 安装rider和.net.md",
     "CS/1.2 rider基本设置.md",
     "CS/0.1 前言.md",
