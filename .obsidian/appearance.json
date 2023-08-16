@@ -1,9 +1,9 @@
 {
   "accentColor": "#66ccff",
   "translucency": false,
-  "interfaceFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC,Hack Nerd Font Mono",
-  "textFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC,Hack Nerd Font Mono",
-  "monospaceFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC,Hack Nerd Font Mono",
+  "interfaceFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC",
+  "textFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC",
+  "monospaceFontFamily": "Cascadia Code PL,Noto Sans Mono CJK SC",
   "cssTheme": "Things",
   "baseFontSize": 14,
   "theme": "obsidian",
