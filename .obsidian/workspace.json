@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38b305e5051a088f",
+        "id": "5599aaf727a5baf5",
         "type": "tabs",
         "children": [
           {
-            "id": "0eca442bebb43deb",
+            "id": "8d19f55d402b37dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/1.3 编辑、编译、运行程序和输出文本.md",
+                "file": "CS/1.4.2 类型和字面量.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/1.3 编辑、编译、运行程序和输出文本.md",
+                "file": "CS/1.4.2 类型和字面量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/1.3 编辑、编译、运行程序和输出文本.md",
+                "file": "CS/1.4.2 类型和字面量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/1.3 编辑、编译、运行程序和输出文本.md"
+                "file": "CS/1.4.2 类型和字面量.md"
               }
             }
+          },
+          {
+            "id": "36469e483ac9844d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,44 +156,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0eca442bebb43deb",
+  "active": "8d19f55d402b37dd",
   "lastOpenFiles": [
-    "CS/1.2 rider基本设置.md",
+    "CS/1.4.1 标识符.md",
     "CS/1.4 变量.md",
     "CS/1.3 编辑、编译、运行程序和输出文本.md",
-    "公开文件/未命名 2.md",
-    "CS/1.4.3 赋值和初始化.md",
-    "CS/1.4.1 标识符.md",
     "CS/1.4.2 类型和字面量.md",
-    "CS/1.5 类型.md",
-    "Pasted image 20230816163551.png",
+    "CS/1.5 输入文本.md",
+    "CS/1.6.1 类型转换.md",
+    "CS/1.6 常用类型.md",
+    "CS/1.4.3 赋值和初始化.md",
+    "CS/1.6.2 引用类型.md",
+    "CS/1.6.1 值类型.md",
     "CS/0.0 思考.md",
-    "CS/1.0 入门思考.md",
-    "CS/1.1 安装rider和.net.md",
-    "Pasted image 20230816162732.png",
-    "Pasted image 20230816162609.png",
     "CS/0.1 前言.md",
+    "CS/1.6.3 值类型.md",
+    "CS/1.5.1 转义字符.md",
+    "CS/1.7 表达式.md",
+    "CS/1.7.1 算数表达式.md",
+    "CS/1.9 函数.md",
+    "CS/1.8 数组.md",
+    "CS/1.10.md",
+    "CS/1..md",
+    "CS/1.8 逻表达式.md",
+    "CS/1.9  控制台功能详解.md",
+    "CS/未命名.md",
+    "CS/1.6.1.1 常用值类型.md",
+    "CS/思考.md",
+    "Pasted image 20230817174227.png",
+    "Pasted image 20230816162609.png",
+    "CS/1.0 入门思考.md",
+    "Pasted image 20230816163551.png",
+    "Pasted image 20230816162732.png",
     "Pasted image 20230816153802.png",
-    "主要/前言.md",
-    "模板/新文件.md",
-    "CS/类型.md",
-    "CS/注释.md",
-    "CS/1.3 输出.md",
-    "公开文件/未命名 1.md",
     "Pasted image 20230812154133.png",
     "Pasted image 20230812160344.png",
     "Pasted image 20230812155950.png",
     "Pasted image 20230812155230.png",
     "Pasted image 20230812155205.png",
-    "CS/大纲.md",
-    "公开文件/未命名.md",
-    "文件/ae8698ed06794c9da97c5e418d0306d4~tplv-em5hxbkur4-noop.jpg",
-    "Unreal/VR/PICO试教学/可以讲的课程.md",
-    "Unreal/VR/PICO试教学/价格预期.md",
-    "Unreal/VR/PICO试教学/1.2.1 配置安卓环境.md",
-    "Unreal/VR/PICO试教学/1.1 开发者注册.md",
-    "Unreal/VR/PICO试教学/1.0大纲.md",
-    "Unreal/VR/PICO试教学/1.2 环境配置.md",
     "Unreal/VR/PICO试教学/未命名",
     "Unreal/VR/PICO/未命名",
     "Unreal/VR/PICO试教学",
